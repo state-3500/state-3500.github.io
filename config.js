@@ -1,12 +1,12 @@
 // Auto-generated from Google Sheet. Do not edit by hand.
 const CONFIG = {
   "info": {
-    "number": "3495",
+    "number": "3500",
     "tagline": "VERIFIED WINNER STATE",
-    "birthDate": "2025-09-25",
+    "birthDate": "2025-09-26",
     "svsRecord": "1-0",
     "leadingStateWins": "0",
-    "napLevel": "NAP3",
+    "napLevel": "NAP5",
     "svsNote": "Records start from the date tracking began."
   },
   "transfer": {
@@ -27,7 +27,7 @@ const CONFIG = {
     "peaceLevelStatus": "Stable",
     "peaceLevelDescription": "No active wars in state.",
     "peaceLevelPercentage": "90",
-    "napCoverageValue": "3/3 top alliances",
+    "napCoverageValue": "5/5 top alliances",
     "napCoverageDescription": " All top alliances have signed NAP.",
     "kePolicyValue": "Warn once, then kick",
     "kePolicyDescription": "KE offenders get one warning before removal."
@@ -45,84 +45,136 @@ const CONFIG = {
   ],
   "council": [
     {
-      "member": "Furkan",
+      "member": "Brice",
       "Role": "R5",
-      "alliance": "TGF",
+      "alliance": "ICE",
+      "power": "495M",
+      "discord": "brisko6743",
+      "whatsapp": "-",
+      "globe": "TRUE"
+    },
+    {
+      "member": "Water",
+      "Role": "R3",
+      "alliance": "ICE",
+      "power": "687M",
+      "discord": "water_99102",
+      "whatsapp": "-",
+      "globe": "FALSE"
+    },
+    {
+      "member": "༄ ᴀʟᴘʜᴀ ࿐ོ ᶜʳʸ",
+      "Role": "R5",
+      "alliance": "CRY",
+      "power": "769M",
+      "discord": "-",
+      "whatsapp": "-",
+      "globe": "TRUE"
+    },
+    {
+      "member": "༄ ғ ɪ ғ ɪ ࿐ ོᶜʳʸ",
+      "Role": "R4",
+      "alliance": "CRY",
+      "power": "934M",
+      "discord": "-",
+      "whatsapp": "-",
+      "globe": "TRUE"
+    },
+    {
+      "member": "Dersim",
+      "Role": "R3",
+      "alliance": "CRY",
+      "power": "833M",
+      "discord": "-",
+      "whatsapp": "-",
+      "globe": "TRUE"
+    },
+    {
+      "member": "마녀 witch ᴷᴼᴿ",
+      "Role": "R5",
+      "alliance": "KOR",
+      "power": "558M",
+      "discord": "-",
+      "whatsapp": "-",
+      "globe": "FALSE"
+    },
+    {
+      "member": "ᴡͨᴏͧɪͭʟͤʕ·͡ᴥ፝֟·ʔ",
+      "Role": "R4",
+      "alliance": "KOR",
+      "power": "900M",
+      "discord": "-",
+      "whatsapp": "-",
+      "globe": "TRUE"
+    },
+    {
+      "member": "｡·͜·｡ᰔᩚShashaᰔᩚ",
+      "Role": "R3",
+      "alliance": "KOR",
+      "power": "548M",
+      "discord": "-",
+      "whatsapp": "-",
+      "globe": "TRUE"
+    },
+    {
+      "member": "༺Scarlet༻Ꮍོᵐᵃ",
+      "Role": "R5",
+      "alliance": "YMA",
+      "power": "320M",
+      "discord": "-",
+      "whatsapp": "-",
+      "globe": "FALSE"
+    },
+    {
+      "member": "Ordinary_Dragon",
+      "Role": "R5",
+      "alliance": "AIM",
       "power": "300M",
       "discord": "-",
-      "whatsapp": "",
-      "globe": "FALSE"
-    },
-    {
-      "member": "Chuckey",
-      "Role": "R4",
-      "alliance": "TGF",
-      "power": "1B",
-      "discord": "-",
-      "whatsapp": "",
-      "globe": "TRUE"
-    },
-    {
-      "member": "Osman",
-      "Role": "R5",
-      "alliance": "WLF",
-      "power": "588M",
-      "discord": "",
-      "whatsapp": "-",
-      "globe": "TRUE"
-    },
-    {
-      "member": "SkyLord",
-      "Role": "R4",
-      "alliance": "WLF",
-      "power": "450M",
-      "discord": "-",
       "whatsapp": "-",
       "globe": "FALSE"
-    },
-    {
-      "member": "Meteor",
-      "Role": "R5",
-      "alliance": "ONE",
-      "power": "309M",
-      "discord": "-",
-      "whatsapp": "",
-      "globe": "FALSE"
-    },
-    {
-      "member": "Meteora",
-      "Role": "R4",
-      "alliance": "ONE",
-      "power": "793M",
-      "discord": "-",
-      "whatsapp": "",
-      "globe": "TRUE"
     }
   ],
   "alliances": [
     {
-      "tag": "TGF",
-      "name": "TheGoldenFamily",
-      "ranking": "1",
-      "power": "23B",
-      "description": "Peace, cooperation, firmness and victory in all forums.\nTGF is your safe home.",
-      "recruiting": "Active 300M+ power, FC6+ players"
-    },
-    {
-      "tag": "WLF",
-      "name": "WinterWolves",
-      "ranking": "2",
-      "power": "23B",
-      "description": "A friendly, active alliance.\nWe fight together and grow together.\nJoin us for daily events and fun.",
-      "recruiting": "Active 300M+ power, FC6+ players"
-    },
-    {
-      "tag": "ONE",
-      "name": "OneDestiny",
+      "tag": "ICE",
+      "name": "IcebornSquirrel",
       "ranking": "3",
-      "power": "14B",
-      "description": "ONE is more than an alliance\nWe are one family with one goal and one destiny",
+      "power": "29B",
+      "description": "You want join us contact : Brisko",
       "recruiting": "Active 300M+ power, FC6+ players"
+    },
+    {
+      "tag": "CRY",
+      "name": "CryBabies",
+      "ranking": "1",
+      "power": "32B",
+      "description": "Welcome home :)",
+      "recruiting": "Active 300M+ power, FC6+ players"
+    },
+    {
+      "tag": "KOR",
+      "name": "HappyNewYear",
+      "ranking": "2",
+      "power": "29B",
+      "description": "이민 상담은 R5에게\n가입 상담은 R5에게",
+      "recruiting": "Active 300M+ power, FC6+ players"
+    },
+    {
+      "tag": "YMA",
+      "name": "霜降",
+      "ranking": "4",
+      "power": "17B",
+      "description": "Welcome to join YMA !",
+      "recruiting": "-"
+    },
+    {
+      "tag": "AIM",
+      "name": "AvalonImperium",
+      "ranking": "5",
+      "power": "6B",
+      "description": "Send message to R5 Only to Get in",
+      "recruiting": "-"
     }
   ],
   "events": [
@@ -183,9 +235,9 @@ const CONFIG = {
   ],
   "svs": [
     {
-      "enemy": "-",
-      "prep": "-",
-      "battle": "-",
+      "enemy": "3495",
+      "prep": "FALSE",
+      "battle": "WIN",
       "score": "-"
     }
   ],
@@ -223,10 +275,10 @@ const CONFIG = {
   ],
   "updates": [
     {
-      "date": "2025-09-25",
+      "date": "2025-09-26",
       "time": "12:00",
       "title": "Grand Opening",
-      "message": "State 3495 is now open."
+      "message": "State 3500 is now open."
     }
   ]
 };

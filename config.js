@@ -5,7 +5,7 @@ const CONFIG = {
     "tagline": "VERIFIED WINNER STATE",
     "birthDate": "2025-09-26",
     "svsRecord": "1-0",
-    "leadingStateWins": "0",
+    "leadingStateWins": "4",
     "napLevel": "NAP5",
     "svsNote": "Records start from the date tracking began."
   },
@@ -179,65 +179,65 @@ const CONFIG = {
   ],
   "events": [
     {
-      "alliance": "TGF",
+      "alliance": "ICE",
       "name": "🐻Bear Trap",
-      "time 1": "14:00",
+      "time 1": "19:00",
       "time 2": "2:00"
     },
     {
-      "alliance": "TGF",
+      "alliance": "ICE",
       "name": "Crazy Joe",
-      "time 1": "20:00",
-      "time 2": "1:00"
+      "time 1": "19:00",
+      "time 2": "19:00"
     },
     {
-      "alliance": "TGF",
+      "alliance": "ICE",
       "name": "Foundry / Canyon",
-      "time 1": "10:00",
-      "time 2": "3:00"
-    },
-    {
-      "alliance": "WLF",
-      "name": "🐻Bear Trap",
-      "time 1": "14:00",
+      "time 1": "19:00",
       "time 2": "2:00"
     },
     {
-      "alliance": "WLF",
-      "name": "Crazy Joe",
-      "time 1": "20:00",
-      "time 2": "1:00"
-    },
-    {
-      "alliance": "WLF",
-      "name": "Foundry / Canyon",
-      "time 1": "10:00",
-      "time 2": "3:00"
-    },
-    {
-      "alliance": "ONE",
+      "alliance": "CRY",
       "name": "🐻Bear Trap",
-      "time 1": "14:00",
-      "time 2": "2:00"
+      "time 1": "19:00",
+      "time 2": "13:00"
     },
     {
-      "alliance": "ONE",
+      "alliance": "CRY",
       "name": "Crazy Joe",
-      "time 1": "20:00",
-      "time 2": "1:00"
+      "time 1": "19:00",
+      "time 2": "13:00"
     },
     {
-      "alliance": "ONE",
+      "alliance": "CRY",
       "name": "Foundry / Canyon",
-      "time 1": "10:00",
-      "time 2": "3:00"
+      "time 1": "19:00",
+      "time 2": "14:00"
+    },
+    {
+      "alliance": "KOR",
+      "name": "🐻Bear Trap",
+      "time 1": "19:00",
+      "time 2": "14:00"
+    },
+    {
+      "alliance": "KOR",
+      "name": "Crazy Joe",
+      "time 1": "19:00",
+      "time 2": "14:00"
+    },
+    {
+      "alliance": "KOR",
+      "name": "Foundry / Canyon",
+      "time 1": "19:00",
+      "time 2": "14:00"
     }
   ],
   "svs": [
     {
       "enemy": "3495",
       "prep": "FALSE",
-      "battle": "WIN",
+      "battle": "TRUE",
       "score": "-"
     }
   ],

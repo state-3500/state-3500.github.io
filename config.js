@@ -6,7 +6,7 @@ const CONFIG = {
     "birthDate": "2025-09-26",
     "svsRecord": "1-0",
     "leadingStateWins": "4",
-    "napLevel": "NAP5",
+    "napLevel": "NAP1",
     "svsNote": "Records start from the date tracking began."
   },
   "transfer": {
@@ -43,193 +43,34 @@ const CONFIG = {
       "rule": "Respect the transfer window: no bullying incoming players."
     }
   ],
-  "council": [
-    {
-      "member": "Brice",
-      "Role": "R5",
-      "alliance": "ICE",
-      "power": "495M",
-      "discord": "brisko6743",
-      "whatsapp": "-",
-      "globe": "TRUE"
-    },
-    {
-      "member": "Water",
-      "Role": "R3",
-      "alliance": "ICE",
-      "power": "687M",
-      "discord": "water_99102",
-      "whatsapp": "-",
-      "globe": "FALSE"
-    },
-    {
-      "member": "༄ ᴀʟᴘʜᴀ ࿐ོ ᶜʳʸ",
-      "Role": "R5",
-      "alliance": "CRY",
-      "power": "769M",
-      "discord": "-",
-      "whatsapp": "-",
-      "globe": "TRUE"
-    },
-    {
-      "member": "༄ ғ ɪ ғ ɪ ࿐ ོᶜʳʸ",
-      "Role": "R4",
-      "alliance": "CRY",
-      "power": "934M",
-      "discord": "-",
-      "whatsapp": "-",
-      "globe": "TRUE"
-    },
-    {
-      "member": "Dersim",
-      "Role": "R3",
-      "alliance": "CRY",
-      "power": "833M",
-      "discord": "-",
-      "whatsapp": "-",
-      "globe": "TRUE"
-    },
-    {
-      "member": "마녀 witch ᴷᴼᴿ",
-      "Role": "R5",
-      "alliance": "KOR",
-      "power": "558M",
-      "discord": "-",
-      "whatsapp": "-",
-      "globe": "FALSE"
-    },
-    {
-      "member": "ᴡͨᴏͧɪͭʟͤʕ·͡ᴥ፝֟·ʔ",
-      "Role": "R4",
-      "alliance": "KOR",
-      "power": "900M",
-      "discord": "-",
-      "whatsapp": "-",
-      "globe": "TRUE"
-    },
-    {
-      "member": "｡·͜·｡ᰔᩚShashaᰔᩚ",
-      "Role": "R3",
-      "alliance": "KOR",
-      "power": "548M",
-      "discord": "-",
-      "whatsapp": "-",
-      "globe": "TRUE"
-    },
-    {
-      "member": "༺Scarlet༻Ꮍོᵐᵃ",
-      "Role": "R5",
-      "alliance": "YMA",
-      "power": "320M",
-      "discord": "-",
-      "whatsapp": "-",
-      "globe": "FALSE"
-    },
-    {
-      "member": "Ordinary_Dragon",
-      "Role": "R5",
-      "alliance": "AIM",
-      "power": "300M",
-      "discord": "-",
-      "whatsapp": "-",
-      "globe": "FALSE"
-    }
-  ],
+  "council": [],
   "alliances": [
-    {
-      "tag": "ICE",
-      "name": "IcebornSquirrel",
-      "ranking": "3",
-      "power": "29B",
-      "description": "You want join us contact : Brisko",
-      "recruiting": "Active 300M+ power, FC6+ players"
-    },
     {
       "tag": "CRY",
       "name": "CryBabies",
       "ranking": "1",
-      "power": "32B",
-      "description": "Welcome home :)",
+      "power": "15B",
+      "description": "A lot of people have left this State, but we're working hard to rebuild it. We're open to group transfers and entire alliances moving over. DM ZICO if you're interested.",
       "recruiting": "Active 300M+ power, FC6+ players"
-    },
-    {
-      "tag": "KOR",
-      "name": "HappyNewYear",
-      "ranking": "2",
-      "power": "29B",
-      "description": "이민 상담은 R5에게\n가입 상담은 R5에게",
-      "recruiting": "Active 300M+ power, FC6+ players"
-    },
-    {
-      "tag": "YMA",
-      "name": "霜降",
-      "ranking": "4",
-      "power": "17B",
-      "description": "Welcome to join YMA !",
-      "recruiting": "-"
-    },
-    {
-      "tag": "AIM",
-      "name": "AvalonImperium",
-      "ranking": "5",
-      "power": "6B",
-      "description": "Send message to R5 Only to Get in",
-      "recruiting": "-"
     }
   ],
   "events": [
     {
-      "alliance": "ICE",
-      "name": "🐻Bear Trap",
-      "time 1": "19:00",
-      "time 2": "2:00"
-    },
-    {
-      "alliance": "ICE",
-      "name": "Crazy Joe",
-      "time 1": "19:00",
-      "time 2": "19:00"
-    },
-    {
-      "alliance": "ICE",
-      "name": "Foundry / Canyon",
-      "time 1": "19:00",
-      "time 2": "2:00"
-    },
-    {
       "alliance": "CRY",
       "name": "🐻Bear Trap",
-      "time 1": "19:00",
+      "time 1": "2:00",
       "time 2": "13:00"
     },
     {
       "alliance": "CRY",
       "name": "Crazy Joe",
-      "time 1": "19:00",
-      "time 2": "13:00"
+      "time 1": "14:00",
+      "time 2": "14:00"
     },
     {
       "alliance": "CRY",
       "name": "Foundry / Canyon",
-      "time 1": "19:00",
-      "time 2": "14:00"
-    },
-    {
-      "alliance": "KOR",
-      "name": "🐻Bear Trap",
-      "time 1": "19:00",
-      "time 2": "14:00"
-    },
-    {
-      "alliance": "KOR",
-      "name": "Crazy Joe",
-      "time 1": "19:00",
-      "time 2": "14:00"
-    },
-    {
-      "alliance": "KOR",
-      "name": "Foundry / Canyon",
-      "time 1": "19:00",
+      "time 1": "2:00",
       "time 2": "14:00"
     }
   ],
